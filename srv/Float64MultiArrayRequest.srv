@@ -1,0 +1,4 @@
+std_msgs/Float64MultiArray next_waypoint
+---
+bool was_succesful
+string message

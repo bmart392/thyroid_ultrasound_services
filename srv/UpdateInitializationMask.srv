@@ -1,0 +1,5 @@
+thyroid_ultrasound_messages/image_data_message image_data
+sensor_msgs/Image previous_image_mask
+---
+bool was_successful
+string message

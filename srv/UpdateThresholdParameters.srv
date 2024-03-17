@@ -1,0 +1,5 @@
+uint16 lower_bound
+uint16 upper_bound
+---
+bool was_successful
+string message
