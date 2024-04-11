@@ -69,6 +69,8 @@ add_service_files(
   UpdateThresholdParameters.srv
   ViewControllerGains.srv
   SetControllerGains.srv
+  Int64Request.srv
+  StatusVisualization.srv
 )
 
 ## Generate actions in the 'action' folder
