@@ -1,0 +1,6 @@
+string action
+float64 direction_1_distance
+float64 direction_2_distance
+---
+bool was_succesful
+string message

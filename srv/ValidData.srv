@@ -1,0 +1,6 @@
+int64 data_point_index
+---
+std_msgs/Float64MultiArray valid_pose
+sensor_msgs/Image valid_mask
+bool was_succesful
+string message

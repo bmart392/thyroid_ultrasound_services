@@ -71,6 +71,9 @@ add_service_files(
   SetControllerGains.srv
   Int64Request.srv
   StatusVisualization.srv
+  NewestImageData.srv
+  SingleLobeScan.srv
+  ValidData.srv
 )
 
 ## Generate actions in the 'action' folder
