@@ -74,6 +74,7 @@ add_service_files(
   NewestImageData.srv
   SingleLobeScan.srv
   ValidData.srv
+  SaveValidPositionsSettings.srv
 )
 
 ## Generate actions in the 'action' folder
