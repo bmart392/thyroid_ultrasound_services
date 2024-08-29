@@ -75,6 +75,7 @@ add_service_files(
   SingleLobeScan.srv
   ValidData.srv
   SaveValidPositionsSettings.srv
+  TrajectoryWaypoint.srv
 )
 
 ## Generate actions in the 'action' folder

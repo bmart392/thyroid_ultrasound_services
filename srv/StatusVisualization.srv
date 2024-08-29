@@ -1,5 +1,5 @@
 int8 visualization
 bool status
 ---
-bool was_succesful
+bool was_successful
 string message

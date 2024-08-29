@@ -1,0 +1,4 @@
+thyroid_ultrasound_messages/FeatureObjectMsg waypoint
+---
+bool was_successful
+string message

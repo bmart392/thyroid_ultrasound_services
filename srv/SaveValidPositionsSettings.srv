@@ -1,5 +1,5 @@
 float64 time_between_saved_poses_secs
 float64 length_of_history_secs
 ---
-bool was_succesful
+bool was_successful
 string message
