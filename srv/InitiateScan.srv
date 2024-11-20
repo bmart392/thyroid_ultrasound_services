@@ -1,0 +1,6 @@
+string scan_type
+int8 optional_scan_axis
+float64 optional_scan_distance
+---
+bool was_successful
+string message

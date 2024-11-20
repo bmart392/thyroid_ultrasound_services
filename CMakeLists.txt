@@ -76,6 +76,7 @@ add_service_files(
   ValidData.srv
   SaveValidPositionsSettings.srv
   TrajectoryWaypoint.srv
+  InitiateScan.srv
 )
 
 ## Generate actions in the 'action' folder
